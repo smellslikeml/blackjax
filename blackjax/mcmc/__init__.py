@@ -2,6 +2,7 @@ from . import (
     adjusted_mclmc,
     adjusted_mclmc_dynamic,
     barker,
+    discrete_langevin,
     elliptical_slice,
     ghmc,
     hmc,
@@ -19,6 +20,7 @@ from . import (
 
 __all__ = [
     "barker",
+    "discrete_langevin",
     "elliptical_slice",
     "ghmc",
     "hmc",

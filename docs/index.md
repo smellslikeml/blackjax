@@ -96,6 +96,7 @@ marked *Sampling Book* are covered in depth at
 | `dmhmc` | Dynamic HMC with multinomial proposal | — | [API](autoapi/blackjax/mcmc/dynamic_hmc/index) |
 | `rmhmc` | Riemannian Manifold HMC | — | [API](autoapi/blackjax/mcmc/rmhmc/index) |
 | `mala` | Metropolis-Adjusted Langevin Algorithm | — | [API](autoapi/blackjax/mcmc/mala/index) |
+| `dmala` | Discrete Langevin Proposal (Metropolis-adjusted, for discrete state spaces) | — | [API](autoapi/blackjax/mcmc/discrete_langevin/index) |
 | `ghmc` | Generalised HMC (persistent momentum) | — | [API](autoapi/blackjax/mcmc/ghmc/index) |
 | `barker` | Barker proposal (gradient-based MH) | — | [API](autoapi/blackjax/mcmc/barker/index) |
 | `rmh` | Random-walk Metropolis-Hastings | — | [API](autoapi/blackjax/mcmc/random_walk/index) |
